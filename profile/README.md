@@ -1,6 +1,6 @@
-# NovaMC Network
+# Veloxia Network
 
-Bu GitHub organizasyonu, NovaMC Network'e ait dosyaları barındırır. Projeler özel olarak tutulmakta ve yalnızca geliştiriciler tarafından erişilebilmektedir.
+Bu GitHub organizasyonu, Veloxia Network'e ait dosyaları barındırır. Projeler özel olarak tutulmakta ve yalnızca geliştiriciler tarafından erişilebilmektedir.
 
 ## 📜 Lisans
 
